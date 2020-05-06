@@ -32,7 +32,10 @@
 
 .icon{
     font-size: 60px;
-    margin-top: 10px;
+}
+
+.col-3 {
+    padding: 10px;
 }
 
 *, *:before, *:after {
