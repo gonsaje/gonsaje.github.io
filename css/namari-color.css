@@ -82,9 +82,8 @@ a:hover, #header.nav-solid nav a:hover {
 /* Primary Background and Text Colors */
 
 .primary-color, .featured .pricing {
-    background-color:#d85757;
+    background-color:#F5F5F5;
 }
-
 .primary-color, .primary-color .section-title, .primary-color .section-subtitle, .featured .pricing, .featured .pricing p {
     color:black;    
 }
