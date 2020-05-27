@@ -329,3 +329,22 @@ h5{
     color:white;
 }
 
+#contact {
+    height: 600px;
+}
+
+.email {
+    font-family: 'Hind', sans-serif;
+    color: #111;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.contact-icons{
+    margin-top: 40px;
+    font-size: 60px;
+}
+.contact-butt{
+    font-size: 40px;
+}
